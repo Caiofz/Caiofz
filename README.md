@@ -3,7 +3,6 @@
 - 🔎 Estou em busca de estágio
 - 🙋🏽‍♂️ Tenho 18 anos
 - 🎓 2º Semestre - ADS (Unicv)
-- 🌱 Estudando conteúdos para adentrar na programação
 - ⭐ Ser desenvolvedor é meu sonho e irei alcançá-lo!
 <div align="center">
   <a href="https://github.com/Caiofz">
