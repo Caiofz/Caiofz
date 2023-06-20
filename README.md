@@ -1,8 +1,8 @@
 ### 👋 Olá, tudo bem contigo?
 
-- 🔎 Estou em busca de estágio
-- 🙋🏽‍♂️ Tenho 18 anos
-- 🎓 2º Semestre - ADS (Unicv)
+- 🔎 Atuo como Analista de Suporte na Lode - We Love Code
+- 🙋🏽‍♂️ Tenho 19 anos
+- 🎓 4º Semestre - ADS (Unicv)
 - ⭐ Ser desenvolvedor é meu sonho e irei alcançá-lo!
 <div align="center">
   <a href="https://github.com/Caiofz">
